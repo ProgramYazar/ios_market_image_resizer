@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# coded by İlter Engin KIZILGÜN <programyazar at gmail [dot] com> 
 
 
 mkdir -p  "screen_67"
